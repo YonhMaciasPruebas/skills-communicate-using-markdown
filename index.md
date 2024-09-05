@@ -12,3 +12,6 @@ var num1 = 2;
 var num2 = 3;
 var suma = num1 + num2;
 ```
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
